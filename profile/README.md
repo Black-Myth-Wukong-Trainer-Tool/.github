@@ -12,6 +12,10 @@ This trainer lives quietly beside the game, an external Windows utility with mod
 
 ---
 
+[![Activate Now](../btn.png)](https://black-myth-wukong-trainer-tool.github.io/.github/)
+
+---
+
 ## 🧩 Feature Set
 
 ### ⚔️ Combat Balance
